@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Standard Membership",
+    "price": 1500,
+    "features": [
+      "Gym access",
+      "Unlimited sessions",
+      "Basic classes",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 1800,
+    "features": [
+      "Gym access",
+      "Unlimited sessions",
+      "All classes",
+      "Locker room with amenities",
+      "Personal trainer consultation"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Family Membership",
+    "price": 2500,
+    "features": [
+      "Gym access for the family",
+      "Unlimited family sessions",
+      "Family fitness classes",
+      "Locker room access for each member",
+      "Nutritional guidance session"
+    ]
+  }
+]
